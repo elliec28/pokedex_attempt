@@ -7,7 +7,7 @@ root.render(<App />);
 function App() {
   return (
     <div className="banana">
-      <h1>React me</h1>
+      <h1>React me! Test!</h1>
     </div>
   )
 }
